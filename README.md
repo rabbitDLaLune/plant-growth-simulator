@@ -10,6 +10,10 @@ Plant Growth Simulator is a Java-based educational game designed for kids. The g
 - Basic plant growth learning concept
 - Runnable JAR file included for easy testing
 
+## Screenshot
+
+![Plant Growth Simulator](screenshots/javaw_NcGNYxmx1l.png)
+
 ## Technologies Used
 
 - Java
