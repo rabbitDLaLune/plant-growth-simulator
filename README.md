@@ -120,4 +120,8 @@ The main design patterns used in this project are:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
+
+You are allowed to use, modify, and distribute this project, but the original copyright notice and author credit must be included.
+
+Designed and developed by Khairulnizam.
